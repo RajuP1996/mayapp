@@ -1,0 +1,26 @@
+.headerblure
+{
+    box-shadow: 0px 4px 16px 0px black;
+}.backgroundgredient
+{
+    background: linear-gradient(rgb(214, 230, 4),red);
+}.btn_box
+{box-shadow: 0px 4px 10px 0px rgb(180, 178, 178);
+
+} .happyclients
+{
+    box-shadow: 0px 1px 1px 0px rgb(61, 61, 61);
+}.box_shadoww
+{
+    box-shadow: 0px 4px 10px 1px rgb(180, 178, 178); 
+}.btn_box
+{box-shadow: 0px 4px 10px 0px rgb(180, 178, 178);
+
+}
+.btn_boxx
+{box-shadow: 0px 5px 5px 0px rgb(15, 15, 15);
+
+}.shadow-lg
+{
+    border:  1px blue;
+}
